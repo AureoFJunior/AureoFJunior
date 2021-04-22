@@ -11,10 +11,12 @@ Hi! I'm a Brazilian **back-end** and **desktop** developer with knowledge in fro
 - 📒 **Analysis and Systems Development** Academic
 - 💻 **C#** Developer
 - 💻 **Python** Developer
-- 💻 **Java** Student
+- 💻 **Java** Developer
 - 💻 **C/C++** Student
 - 📃 **HTML** and **CSS** Student
--  📱  **Kotlin** Student
+- 📃 **Javascript** Student
+- 📱  **Kotlin** Developer
+- 📱  **Flutter* Developer
 
 
 
