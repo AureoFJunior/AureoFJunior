@@ -16,7 +16,7 @@ Hi! I'm a Brazilian **back-end** and **desktop** developer with knowledge in fro
 - 📃 **HTML** and **CSS** Student
 - 📃 **Javascript** Student
 - 📱  **Kotlin** Developer
-- 📱  **Flutter* Developer
+- 📱  **Flutter** Developer
 
 
 
