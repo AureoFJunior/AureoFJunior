@@ -2,7 +2,7 @@
 
 Hi! I'm a Brazilian **back-end** and **desktop** developer with knowledge in front-end and mobile development. I love new technologies and learn about it. I speak **english** at an advanced level and it makes my job more easier.
 
-![Ilustrative image only!](https://imgur.com/a/k92BgiZ)
+![Ilustrative image only!](https://imgur.com/b7A2trm)
 
 
 ## Informations about me
