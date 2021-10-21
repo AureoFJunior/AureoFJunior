@@ -12,7 +12,7 @@
 - 💻 **C#** Developer
 - 💻 **Python** Developer
 - 💻 **Java** Developer
-- 💻 **C/C++** Student
+- 💻 **VB.NET** Developer
 - 📃 **HTML** and **CSS** Student
 - 📃 **Javascript** Student
 - 📱  **Kotlin** Developer
