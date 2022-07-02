@@ -26,7 +26,7 @@ I speak **english** at an advanced level and it makes my job and life more easie
 </div>
 
 
-![Ilustrative image only!](https://www.freepik.com/premium-vector/programming-working-concept-modern-flat-design-developer-programs-different-languages_19167868.htm)
+![Ilustrative image only!](https://img.freepik.com/free-vector/programming-working-concept-modern-flat-design-developer-programs-different-languages_9209-6821.jpg?w=740)
 ## Informations about me
 
 -  🏡From **PR**, living in **RS**.
