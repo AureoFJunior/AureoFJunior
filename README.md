@@ -4,7 +4,7 @@
 I love new technologies and learn about it and solve the most diverse problems.
 I speak **english** at an advanced level and it makes my job and life more easier.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureoFJunior)](https://github.com/AureoFJunior/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureoFJunior&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AureoFJunior&layout=compact)](https://github.com/AureoFJunior/github-readme-stats)
 
 ## Habilities
