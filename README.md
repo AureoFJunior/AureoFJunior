@@ -25,6 +25,9 @@ I speak **english** at an advanced level and it makes my job and life more easie
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white%22%3E">
 </div>
 
+<br />
+<br />
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AureoFJunior/count.svg" />
@@ -34,14 +37,16 @@ I speak **english** at an advanced level and it makes my job and life more easie
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png" />
 </p>
 
+<br />
 ## Informations about me
 
 -  🏡From **PR**, living in **RS**.
 - 📒 **Analysis and Systems Development** Academic
-- 💻 **C#/.NET** Developer
-- 💻 **VB.NET** Developer
-- 📃 **WEB (HTML, CSS, JS, Node, Angular 11+)** Developer
+- 💻 **C#/VB/.NET** Developer
+- 💻 **Java** Developer
+- 📃 **WEB (HTML, CSS, JS, Node, Angular 13+)** Developer
 - 📱  **Flutter** Developer
+- 📱  **Kotlin** Developer
 
 ##  Contact
 
