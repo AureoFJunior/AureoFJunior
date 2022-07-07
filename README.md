@@ -1,8 +1,6 @@
 # Aureo da Silva F. Junior
 
-## Hi! I'm a Brazilian Mid **FullStack** (with focus on **back-end** and **desktop**) Developer with knowledge in mobile development.
-## I love new technologies and learn about it and solve the most diverse problems.
-## I speak **english** at an advanced level and it makes my job and life more easier.
+## Hi! I'm a Brazilian Mid **FullStack** (with focus on **back-end** and **desktop**) Developer with knowledge in mobile development. I love new technologies and learn about it and solve the most diverse problems. I speak **english** at an advanced level and it makes my job and life more easier.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureoFJunior&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AureoFJunior&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
