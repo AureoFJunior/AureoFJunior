@@ -30,7 +30,9 @@ I speak **english** at an advanced level and it makes my job and life more easie
   <img src="https://profile-counter.glitch.me/AureoFJunior/count.svg" />
 </p>
 
+<p align="center">
 ![Ilustrative image only!](https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png)
+</p>
 
 ## Informations about me
 
