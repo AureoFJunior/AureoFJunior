@@ -1,6 +1,6 @@
 # Aureo da Silva F. Junior
 
-## Hi! I'm a Brazilian Mid **FullStack** .NET/C# and Angular (with focus on **back-end**) Developer with knowledge in mobile and desktop development, Cloud and CI/CD. I love new technologies and learn about it and solve the most diverse problems. I speak **english** at an advanced level and it makes my job and life more easier.
+## Hi! I'm a Brazilian Mid **FullStack** .NET/C# and Angular (with focus on **back-end**) Software Engineer with knowledge in mobile and desktop development, Cloud and CI/CD. I love new technologies and learn about it and solve the most diverse problems. I speak **english** at an advanced level and it makes my job and life more easier.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AureoFJunior&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=Mini_ChatBot,Project-IA,Django-Project-Learning-&username=AureoFJunior&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
