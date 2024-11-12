@@ -60,5 +60,4 @@
 
 ##  Contact
 
-- **Whatsapp:**  +55 (54) 99605-8917.
 - **E-mail:** aureofajardojunior@gmail.com
